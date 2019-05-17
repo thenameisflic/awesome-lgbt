@@ -21,6 +21,8 @@ Eventos focados em tecnologia e empreendedorismo para o público LGBT.
 
 * [TODXS Embaixadorxs](http://bit.ly/Embaixadorxs) - O programa tem como objetivo conectar e capacitar pessoas LGBTI+ para que sejam líderes de transformação no meio em que vivem. - *Inscrições abertas até o dia 19/05/2019*
 
+* [TecnoGueto](https://tecnogueto.com.br) - Projeto de impacto social com o objetivo de dar oportunidade de aprender profissões nas diversas areas dentro da tecnologia, para pessoas de diversos guetos (como LGBT's, mulheres, negros, etc).
+
 # Contribua
 
 Para contribuir, [abra uma issue](https://github.com/thenameisflic/awesome-lgbt/issues) e/ou um [pull request](https://github.com/thenameisflic/awesome-lgbt/pulls).
